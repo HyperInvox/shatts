@@ -1,0 +1,2 @@
+/load weapons/allweps
+/load skills/allskills

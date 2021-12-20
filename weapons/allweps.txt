@@ -1,0 +1,8 @@
+/loadwep Peashooter
+/loadwep BigDamnAxe
+/loadwep Blitzwerfer
+/loadwep TapewormBlaster
+/loadwep FlakPistol
+//TRENCH SHOTGUN NEVER EXISTED SHUT UP
+/loadwep BlastPickaxe
+/loadwep PhytosaultRifle
