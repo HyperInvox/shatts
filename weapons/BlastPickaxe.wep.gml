@@ -1,6 +1,6 @@
 #define init
 global.sprBlastPickaxe = (sprite_add_weapon("sprites/weapons/sprBlastPickaxe.png", 5, 10));
-global.sprExploSwing = sprite_add("sprites/projectiles/sprKablooeySwooshy.png", 7, 8, 24)
+global.sprExploSwing = sprite_add("sprites/projectiles/sprKablooeySwooshy.png", 7, 8, 24) //thank you fumi for this beautiful beautiful sprite mwah mwah
 #define weapon_name
 return "BLAST PICKAXE"
 #define weapon_type

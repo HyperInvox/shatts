@@ -51,6 +51,11 @@ motion_add(theangle, 5)
 }
 else{ exit;}
 #define BigDamnHit
+//  On January 14th, 2022, at aprox. 11:40 PM. Discord user "Tildebee" called me "Neurodivergent" in DMs while talking to them about how
+//  I feel like a living doomsday prophecy to most artistic/development projects I join. I needed more than an hour of processing
+//	and introspection to recover myself from that. It completely took me kind of off-guard and I still cannot 
+//  comprehend the full scale of what that means in terms of other's perception of me. 
+//  In short, you could say that was a "BigDamnHit" to my psyche. 
 if (!projectile_canhit_melee(other)) exit
 projectile_hit(other, damage, force, direction);
 
